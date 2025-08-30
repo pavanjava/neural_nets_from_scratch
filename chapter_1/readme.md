@@ -1,4 +1,4 @@
-# Neural Network Fundamentals: Single Neuron to Multi-Layer Implementation
+# Chapter1: Neural Network Fundamentals: Single Neuron to Multi-Layer Implementation
 
 This Jupyter notebook provides a hands-on introduction to the core mathematical concepts behind neural networks, demonstrating how neurons process multiple inputs and how layers of neurons work together.
 

@@ -1,4 +1,4 @@
-# Neural Network Layers Implementation in NumPy
+# Chapter2: Neural Network Layers Implementation in NumPy
 
 A step-by-step implementation of neural network layers using NumPy, demonstrating the progression from single neuron calculations to batch processing of multiple inputs.
 

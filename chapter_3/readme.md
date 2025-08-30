@@ -1,4 +1,4 @@
-# Multi-Layer Neural Network Forward Pass
+# Chapter 3: Multi-Layer Neural Network Forward Pass
 
 This project demonstrates a simple forward pass implementation of a 3-layer neural network using NumPy. The network processes a batch of input samples through multiple layers to produce final outputs.
 
